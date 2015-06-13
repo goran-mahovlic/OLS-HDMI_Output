@@ -5,14 +5,9 @@ http://www.fpga4fun.com/HDMI.html
 
 connect HDI output on side Wing 
 
-TMDS data0+ LOC=P53 Wing1     
-TMDS data0- LOC=P54 Wing1
-TMDS data1+ LOC=P57 Wing1
-TMDS data1- LOC=P58 Wing1
-TMDS data2+ LOC=P60 Wing1
-TMDS data2- LOC=P61 Wing1
-TMDS clock+ LOC=P62 Wing1
-TMDS clock- LOC=P63 Wing1
+data0+ - Wing1 ; data0- LOC=P54 Wing1 ; data1+ LOC=P57 Wing1 ; data1- LOC=P58 Wing1 ; data2+ LOC=P60 Wing1
+
+data2- LOC=P61 Wing1 ; clock+ LOC=P62 Wing1 ; clock- LOC=P63 Wing1
 
 for upload bit file use 
 
