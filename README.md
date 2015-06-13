@@ -1,4 +1,4 @@
-# OLS_HDMI_OUTPUT
+# OLS_HDMI_Output
 HDMI output on Open Bench Logic Sniffer
 
 http://www.fpga4fun.com/HDMI.html
